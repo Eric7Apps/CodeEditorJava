@@ -11,4 +11,4 @@ cd \Eric\CodeEditorJava
 
 Java MainApp
 
-pause
+rem pause
